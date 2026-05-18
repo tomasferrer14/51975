@@ -1,0 +1,1 @@
+Definir x, y como Entero; x = 10 + 5;
